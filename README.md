@@ -76,5 +76,5 @@ Durante o desenvolvimento deste laboratório, foram consolidados os seguintes co
 ├── images/                  # Capturas de tela e demonstração da planilha
 │   ├── dashboard.png
 │   └── simulacao_exemplo.png
-├── Simulador_Investimento_FIIs.xlsx  # Arquivo Excel da ferramenta
+├── app_investimento_dio_MirianJasmin.xlsx  # Arquivo Excel da ferramenta
 └── README.md                # Documentação técnica do projeto
